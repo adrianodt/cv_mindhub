@@ -7,6 +7,9 @@ header, footer{
   background-color: rgb(138, 41, 235);
 }
 
+footer h4 {
+  color: lightgray;
+}
 h1 {
     font-style: italic;
     font-size: 140px;
